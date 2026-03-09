@@ -18,8 +18,15 @@
 	{
 		"name": "Grassland",
 		"type": "Land",
-		"food": 2,
         "RGB": [0, 163, 0],
         "uniques": ["Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]"],
+  },
+  {
+		"name": "Desert",
+		"type": "Land",
+		"production": 3,
+		"movementCost": 1,
+		"RGB": [230, 172, 0],
+	    "uniques": ["Occurs at temperature between [0.5] and [0.8] and humidity between [0.5] and [0.7]"],
   }
 ]
