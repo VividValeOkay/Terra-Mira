@@ -1,10 +1,10 @@
 [
   {
     "name": "Civilian",
-    "uniques": [],
+    "movementType": "Land",
   },
   {
     "name": "Blunt",
-    "uniques": [],
+    "movementType": "Land",
   }
 ]
