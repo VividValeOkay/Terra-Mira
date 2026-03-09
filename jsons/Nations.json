@@ -9,5 +9,10 @@
     "denounced": "Hmph? You cant insult a king. how barbaric.",
     "introduction": "I am the great king Andeolus Laurito of Prata. Tell me, what lands do you come from..?",
     "tradeRequest": "Our two Peoples could really use some agreement...",
+
+    "innerColor": [0, 0, 180],
+    "outerColor": [255, 255, 255],
+    "uniqueName": "Grand Monuments",
+    "cities": ["Prata","Lotirus","Solimus","Helena","Mosuvius","Perator","Poleosus"],
   }
 ]
