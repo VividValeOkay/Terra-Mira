@@ -3,7 +3,8 @@
     "name": "Settler",
     "unitType": "Civilian",
     "movement": 1,
-    "uniques": [""],
+    "uniques": ["Founds a new city",
+                "Requires at least [2] population"],
   },
   {
     "name": "Worker",
