@@ -14,5 +14,21 @@
     "outerColor": [255, 255, 255],
     "uniqueName": "Grand Monuments",
     "cities": ["Prata","Lotirus","Solimus","Helena","Mosuvius","Perator","Poleosus"],
+  },
+  {
+    "name": "Shimang",
+    "leaderName": "",
+
+    "declaringWar": "Charge! Victory is only one glorious battle away!",
+    "attacked": "You cannot declare war on me! I declared war first..!",
+    "defeated": "Good... End me and give me honour...",
+    "denounced": "Nothing but gibberish.",
+    "introduction": "Good evening, who are you? For I am the leader of Shimang.",
+    "tradeRequest": "Gold? Iron? Weapons? Who knows what things we can get from this trade?",
+
+    "innerColor": [215, 0, 0],
+    "outerColor": [255, 255, 255],
+    "uniqueName": "Ancient Builders",
+    "cities": ["Shimang City","Shozu","Manchi","Yasazu","Ilisayen","Yikasiza","Guza"],
   }
 ]
